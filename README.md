@@ -19,11 +19,28 @@
 
 # Slides
 
+* First: Try+ associated verbs
+* Second: Hot and Cold,dichotomy
+* Third: MJ ?
+* Last: Gallileo galliley and astro heroes
+
 # Quotes
 
+* Spare your brain
 * The right to disobey, to do it your way, to think then exist
 * Where niceness is received as weakness ...
 * There is no true heroes in victory
+* Fuzz
+
+# Examples
+
+* Put print at every line
+* Tune a coeficient, a LaTeX variable (too high, too low)
+* Test fast as much major version as you can, one must succeed. Leave the script in background, you are already fuzzing Dude a true hacker!
+* Spam the full Alma Staff to share to them to valorate any intent so that it becomes a shared knowledge
+
+
+
 
 # Mandar
 
