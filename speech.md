@@ -4,9 +4,9 @@ Good morning,
 We are 2 lost souls working in the Alma Department of Computing.
 Here, everyone uses computers for their daily duties but in computing we have ~~no professional life outside the digital world!~~
 
-As for cooking, coding is a methafore of labour, transformation, life!
+As for cooking, coding is a metaphor of labour, transformation, life!
 Welcome in this digital world!
-Softwares never work. We, humble humans, never know how to fix them but we will anyway show you how we try!
+Software never work. We, humble humans, never know how to fix it but we will anyway show you how we try!
 
 
 ## 1/ Hot and Cold: I: Dichotomy: Tin 1min
