@@ -6,21 +6,21 @@ Here, everyone uses computers for their daily duties but in computing we have ~~
 
 As for cooking, coding is a methafore of labour, transformation, life!
 Welcome in this digital world!
-Softwares never work. We, humans, never know what to do it but will anyway show you how we try!
+Softwares never work. We, humble humans, never know how to fix them but we will anyway show you how we try!
 
 
 ## 1/ Hot and Cold: I: Dichotomy: Tin 1min
 
 There is a game called: "hot and cold" where the goal is to find an hidden object.
-At any moment, the player can query if he his getting closer or futher from the goal.
-This investigation method implements an entropycally optimal way to find or geolocalise with respectively a binary tree or cartesian coordinates.
-At this game, I just turn off my brain and remember that if nothing goes right, go left!
-Also that if I keep trying until sucess, I will succeed before I stop.
+At any moment, the player can query if he his getting closer or further from the goal.
+This investigation method ~~implements~~ an entropically optimal way to find or geolocalise with respectively a binary tree or Cartesian coordinates.
+When I play, I just switch off my brain and remember that if nothing goes right, go left!
+I also remember that if I keep trying until success, I will succeed before I stop.
 
 Astronomers call that walk "Fitting".
-Computerist: "artificial inteligence" where going down the slope of weights of a "neuronal" network is reffered as "training".
+Computerist call it: "artificial intelligence" where going down the slope of weights of a "neuronal" network is referred as "Training".
 
-Musicians say: "Tune", Criticss "Tweak", Cooks: "Taste", and I "Try".
+Musicians say: "Tune", Critics: "Tweak", Cooks: "Taste", and I "Try".
 When business "Speculate", sport "Run for", and gigahertz machine "Fuzz",
 like them, I stand still, analyse, wait and have my shot! (Como shileno shoro shatumare => bang, oh shit ...)
 
@@ -36,28 +36,28 @@ Anyway, just do your best because that is the best you can do!
 ## 3/ Enumeration: You->We: MJ 1min
 
 We are small things, we trust what we see.
-Trust is pillar of collaboration, fundamental element of operational eficiency.
+Trust is pillar of collaboration, fundamental element of operational efficiency.
 So try to show us your face! Don't worry, you won't loose it!
 
 You have the right to disobey, to do it your way, to think then exist!
 Take your place among the brave ones.
 ~~It's time you stand, fight... discover... heal, love, win.~~
 
-You may know (in quotes) that the resolution of Alma is limited by the difraction of the synthetic aperture, the longer baseline.
-Do you believe in this quantum limit in the continus realm?
+You may know (in quotes) that the resolution of Alma is limited by the diffraction of the synthetic aperture, the longer baseline.
+Do you believe in this quantum limit in the continuous realm?
 
 (@MJ, I put more in README/Example)
 
 ## Conclusion: We: Tin 30s
 
-Here in Alma, we work among astronomers within Gallileo Gallilei's legacy.
+Here in Alma, we work among astronomers within Galileo Galilei's legacy.
 
-His heritage is not only extreterrestial, not even bound to science.
-He taught us than natural sciences are bound to a full equation and empty stomac.
+His heritage is ~~living~~ not only to astrophysics, or even science.
+He taught us than natural sciences are not bound to a full equation and empty social life.
 No more than social science is bound to a full vocabulary and empty pocket.
 Both their essences lie in our attitude.
 
-Here in Alma, within Gallileo Gallilei's legacy we work among astronomers.
-Let's admire, troll and try to imitate them!
+Here in Alma, within Galileo Galilei's legacy we work among astronomers.
+Let's admire (, troll) and try to imitate them!
 
 Thank you for your attention.

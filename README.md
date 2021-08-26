@@ -31,6 +31,7 @@
 * Where niceness is received as weakness ...
 * There is no true heroes in victory
 * Fuzz
+* If you do not trust me, at least trust yourself
 
 # Examples
 
