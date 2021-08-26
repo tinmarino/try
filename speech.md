@@ -50,8 +50,14 @@ Do you believe in this quantum limit in the continus realm?
 
 ## Conclusion: We: Tin 30s
 
-* Gallileo Gallilei father 
+Here in Alma, we work among astronomers within Gallileo Gallilei's legacy.
 
-Let's admire and imitate them!
+His heritage is not only extreterrestial, not even bound to science.
+He taught us than natural sciences are bound to a full equation and empty stomac.
+No more than social science is bound to a full vocabulary and empty pocket.
+Both their essences lie in our attitude.
+
+Here in Alma, within Gallileo Gallilei's legacy we work among astronomers.
+Let's admire, troll and try to imitate them!
 
 Thank you for your attention.
