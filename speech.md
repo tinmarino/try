@@ -11,7 +11,13 @@ Softwares never work. We, humans, never know what to do it but will anyway show 
 
 ## 1/ Hot and Cold: I: Dichotomy: Tin 1min
 
-* Entropy
+There is a game called: "hot and cold".
+
+* Entropycally optimal (like binary cartesian coordinates)
+
+Astronomers call that walk "fitting" (or best chi square fit).
+Computerist call that "artificial inteligence" where going down the slope of weights in a network called neuronal is reffered as "training".
+
 * Try, Tune, Taste
 * Fuzz
 * If nothing goes right, go left!
@@ -27,8 +33,9 @@ We are small things, we trust what we see.
 Trust is pillar of collaboration, fundamental element of operational eficiency.
 So try to show us your face! Don't worry, you won't loose it!
 
-Take your place among the brave ones
-It's time you stand, fight... discover... heal, love, win.
+You have the right to disobey, to do it your way, to think then exist!
+Take your place among the brave ones.
+~~It's time you stand, fight... discover... heal, love, win.~~
 
 You may know (in quotes) that the resolution of Alma is limited by the difraction of the synthetic aperture, the longer baseline.
 Do you believe in this quantum limit in the continus realm?

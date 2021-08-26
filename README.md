@@ -27,7 +27,6 @@
 # Quotes
 
 * Spare your brain
-* The right to disobey, to do it your way, to think then exist
 * Where niceness is received as weakness ...
 * There is no true heroes in victory
 * Fuzz
@@ -44,6 +43,7 @@
 
 # Mandar
 
+* follow your heart, your intution as you own body as been assembled to become the perfect machine of trial and errors, pattern recognision and instantaneous priorisation. A body hosting a brain much more powerfull than my computer. I cannot exploit fully my computer nor you your brain. At least I try, do you?
 * Methodology
 * Unstack bugs
 * De menos a mas para evitar, Sacar el miedo Chileno (de romper todo)
