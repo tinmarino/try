@@ -37,7 +37,14 @@
 * Tune a coeficient, a LaTeX variable (too high, too low)
 * Test fast as much major version as you can, one must succeed. Leave the script in background, you are already fuzzing Dude a true hacker!
 * Spam the full Alma Staff to share to them to valorate any intent so that it becomes a shared knowledge
+* The Rusian hacker push! Send Virus formated for many case of host RAM topography
 
+# Synonyms
+
+* attempt
+* have a shot
+* inspect, analyse
+* go after
 
 
 

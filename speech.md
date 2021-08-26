@@ -11,21 +11,25 @@ Softwares never work. We, humans, never know what to do it but will anyway show 
 
 ## 1/ Hot and Cold: I: Dichotomy: Tin 1min
 
-There is a game called: "hot and cold".
+There is a game called: "hot and cold" where the goal is to find an hidden object.
 
 * Entropycally optimal (like binary cartesian coordinates)
-
-Astronomers call that walk "fitting" (or best chi square fit).
-Computerist call that "artificial inteligence" where going down the slope of weights in a network called neuronal is reffered as "training".
-
-* Try, Tune, Taste
-* Fuzz
 * If nothing goes right, go left!
 * If you keep trying until sucess, you will succeed before you stop (lesson from hitchhicking and today I am here)
+
+Astronomers call that walk "fitting".
+Computerist call that "artificial inteligence" where going down the slope of weights in a network called neuronal is reffered as "training".
+Musicians say: "Tune",
+Cooks: "Taste",
+
+When business "Speculate", sport "Run for", and machine "Fuzz",
+I, like them, stand still, analyse, wait and have my shot!
+
 
 ## 2/ Humble Example: I->You: MJ 1min
 
 
+Anyway, just do your best because that is the best you can do!
 
 ## 3/ Enumeration: You->We: MJ 1min
 
