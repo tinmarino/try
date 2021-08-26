@@ -1,3 +1,10 @@
+# Notas
+
+* Me, You, Us: I'd like to start with "I" then "You" then "We" (tin)
+  * A classical tactic to federate auditory
+  * Myannam, tinanam, Vietnam !
+
+
 # Plan
 
 * Who are we (30 sec)
@@ -14,11 +21,10 @@
 
 * Try, Tune, Taste
 * The right to disobey
-* If you keep on until sucess, you will succeed before you stop
 * The resolution of Alma is limited by the difraction of the synthetic aperture, which means by the longer baseline.
   * Are you sure of this limit
   * Who said it
-
+* 
 
 # Mandar
 
