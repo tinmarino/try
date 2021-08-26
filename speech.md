@@ -12,21 +12,23 @@ Softwares never work. We, humans, never know what to do it but will anyway show 
 ## 1/ Hot and Cold: I: Dichotomy: Tin 1min
 
 There is a game called: "hot and cold" where the goal is to find an hidden object.
+At any moment, the player can query if he his getting closer or futher from the goal.
+This investigation method implements an entropycally optimal way to find or geolocalise with respectively a binary tree or cartesian coordinates.
+At this game, I just turn off my brain and remember that if nothing goes right, go left!
+Also that if I keep trying until sucess, I will succeed before I stop.
 
-* Entropycally optimal (like binary cartesian coordinates)
-* If nothing goes right, go left!
-* If you keep trying until sucess, you will succeed before you stop (lesson from hitchhicking and today I am here)
+Astronomers call that walk "Fitting".
+Computerist: "artificial inteligence" where going down the slope of weights of a "neuronal" network is reffered as "training".
 
-Astronomers call that walk "fitting".
-Computerist call that "artificial inteligence" where going down the slope of weights in a network called neuronal is reffered as "training".
-Musicians say: "Tune",
-Cooks: "Taste",
+Musicians say: "Tune", Criticss "Tweak", Cooks: "Taste", and I "Try".
+When business "Speculate", sport "Run for", and gigahertz machine "Fuzz",
+like them, I stand still, analyse, wait and have my shot! (Como shileno shoro shatumare => bang, oh shit ...)
 
-When business "Speculate", sport "Run for", and machine "Fuzz",
-I, like them, stand still, analyse, wait and have my shot!
-
+MJ Cover me!
 
 ## 2/ Humble Example: I->You: MJ 1min
+
+Oh dear, you need backup!
 
 
 Anyway, just do your best because that is the best you can do!
@@ -44,9 +46,11 @@ Take your place among the brave ones.
 You may know (in quotes) that the resolution of Alma is limited by the difraction of the synthetic aperture, the longer baseline.
 Do you believe in this quantum limit in the continus realm?
 
+(@MJ, I put more in README/Example)
+
 ## Conclusion: We: Tin 30s
 
-* Gallileo Gallilei
+* Gallileo Gallilei father 
 
 Let's admire and imitate them!
 

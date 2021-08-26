@@ -26,6 +26,7 @@
 
 # Quotes
 
+* He did not know it was imposible so he did it
 * Spare your brain
 * Where niceness is received as weakness ...
 * There is no true heroes in victory
@@ -43,13 +44,17 @@
 
 * attempt
 * have a shot
-* inspect, analyse
+* inspect, analyse, assess, investigate, question, inquire
 * go after
+* tweak
+* Adjust
 
 
 
 # Mandar
 
+* Poeat essay
+* Not in vocabulary, empty pocket but in the attitude
 * follow your heart, your intution as you own body as been assembled to become the perfect machine of trial and errors, pattern recognision and instantaneous priorisation. A body hosting a brain much more powerfull than my computer. I cannot exploit fully my computer nor you your brain. At least I try, do you?
 * Methodology
 * Unstack bugs
