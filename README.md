@@ -17,14 +17,13 @@
   * Try methodologically: dichotomically, taking notes ...
 
 
+# Slides
+
 # Quotes
 
-* Try, Tune, Taste
-* The right to disobey
-* The resolution of Alma is limited by the difraction of the synthetic aperture, which means by the longer baseline.
-  * Are you sure of this limit
-  * Who said it
-* 
+* The right to disobey, to do it your way, to think then exist
+* Where niceness is received as weakness ...
+* There is no true heroes in victory
 
 # Mandar
 
