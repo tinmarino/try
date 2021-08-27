@@ -33,6 +33,20 @@ MJ Cover me!
 
 Anyway, just do your best because that is the best you can do!
 
+1/2 examples done.
+
+Pictore: cave and torch, looking for hints to discard or not while troubleshooting
+
+Example 1:
+	- CM11 not locking band scenario
+        - Declared as a SW problem, band locking issue was a unknown problem 
+	 we went all over and above the code, input files, reviewing monitoring points
+  	trying to identify and/or discard other probable scenarios of known problemas between HW and SW
+	at some moment, we were 6 eyes, 3 brains trying to catch where these was failling... we are yet ignorants in
+	terms of electronic devices but we collect and gather information to create the big picture during this troubleshooting
+	even when we go over and above, the lack of further points to discard or investigate... stopped our investigation
+	maybe tomorrow we are lucky enough to watch a similar case or scenario that help us connect the dots, to create
+	the bigger picture while troubleshooting.
 ## 3/ Enumeration: You->We: MJ 1min
 
 We are small things, we trust what we see.
