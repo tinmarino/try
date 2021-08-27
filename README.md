@@ -33,6 +33,11 @@
 * Any science suffisiently advanced look like magic
 * If you do not trust me, at least trust yourself
 * Learn to live in doubt but fight to overkill the shadow
+* A bruise is a lesson... and each lesson makes us better
+* Doing mistakes is as much a part of life as avoiding them. You may not get a second chance to do the same mistake, so, go on, give it a shot
+* Try and fail, but never fail to try 
+* To try or not to try, dont make that question, just try
+* The only failure is not trying
 
 # Examples
 
