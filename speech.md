@@ -6,16 +6,16 @@ Here, everyone uses computers for their daily duties but in computing we have ~~
 
 As for cooking, coding is a metaphor of labour, transformation, life!
 Welcome in this digital world!
-Software never work. We, humble humans, never know how to fix it but we will anyway show you how we try!
+Software never work. We, humble humans, never know how to fix it but, anyway, we are going to show you how we try!
 
 
 ## 1/ Hot and Cold: I: Dichotomy: Tin 1min
 
 There is a game called: "hot and cold" where the goal is to find an hidden object.
 At any moment, the player can query if he his getting closer or further from the goal.
-This investigation method ~~implements~~ an entropically optimal way to find or geolocalise with respectively a binary tree or Cartesian coordinates.
-When I play, I just switch off my brain and remember that if nothing goes right, go left!
-I also remember that if I keep trying until success, I will succeed before I stop.
+This investigation method exibits the entropically optimal way to find or geolocalise with respectively a binary tree or Cartesian coordinates.
+When I play, I just switch off my brain and instinctively, if nothing goes right, I go left!
+As I keep trying until success, I succeed before I stop.
 
 Astronomers call that walk "Fitting".
 Computerist call it: "artificial intelligence" where going down the slope of weights of a "neuronal" network is referred as "Training".
@@ -28,7 +28,7 @@ MJ Cover me!
 
 ## 2/ Humble Example: I->You: MJ 1min
 
-Oh dear, you need backup!
+(Oh dear, you need backup!)
 
 
 Anyway, just do your best because that is the best you can do!
@@ -43,7 +43,7 @@ You have the right to disobey, to do it your way, to think then exist!
 Take your place among the brave ones.
 ~~It's time you stand, fight... discover... heal, love, win.~~
 
-You may know (in quotes) that the resolution of Alma is limited by the diffraction of the synthetic aperture, the longer baseline.
+You may "know" that the resolution of Alma is limited by the diffraction of the synthetic aperture, the longer baseline.
 Do you believe in this quantum limit in the continuous realm?
 
 (@MJ, I put more in README/Example)
@@ -52,9 +52,9 @@ Do you believe in this quantum limit in the continuous realm?
 
 Here in Alma, we work among astronomers within Galileo Galilei's legacy.
 
-His heritage is ~~living~~ not only to astrophysics, or even science.
-He taught us than natural sciences are not bound to a full equation and empty social life.
-No more than social science is bound to a full vocabulary and empty pocket.
+His heritage survives not only in astrophysics, or even science.
+He taught us than natural science is not defined by complicated equations and simple drawings.
+No more than social science is defined by a rich vocabulary and an empty pocket.
 Both their essences lie in our attitude.
 
 Here in Alma, within Galileo Galilei's legacy we work among astronomers.
