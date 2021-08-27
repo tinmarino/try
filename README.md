@@ -30,8 +30,9 @@
 * Spare your brain
 * Where niceness is received as weakness ...
 * There is no true heroes in victory
-* Any science suffisiently advanced llok like magic
+* Any science suffisiently advanced look like magic
 * If you do not trust me, at least trust yourself
+* Learn to live in doubt but fight to overkill the shadow
 
 # Examples
 
