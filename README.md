@@ -19,10 +19,16 @@
 
 # Slides
 
-* First: Try+ associated verbs
-* Second: Hot and Cold,dichotomy
-* Third: MJ ?
-* Last: Gallileo galliley and astro heroes
+###  First: Try+ associated verbs
+### Second: Hot and Cold,dichotomy
+
+### * Third: MJ ?
+
+1/2 examples done.
+
+Pictore: cave and torch, looking for hints to discard or not while troubleshooting
+
+### Last: Gallileo galliley and astro heroes
 
 # Quotes
 
