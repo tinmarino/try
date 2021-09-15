@@ -31,10 +31,14 @@ Pictore: cave and torch, looking for hints to discard or not while troubleshooti
 
 # Quotes
 
+* Fear does not avoid danger (neither does courage. But fear makes you weak, and courage makes you strong.) (Misha Defonseca)
 * He did not know it was imposible so he did it
-* Spare your brain
 * Where niceness is received as weakness ...
 * There is no true heroes in victory
+* Where niceness is received as weakness ..
+
+# Quotes other
+
 * Any science suffisiently advanced look like magic
 * If you do not trust me, at least trust yourself
 * Learn to live in doubt but fight to overkill the shadow
@@ -43,7 +47,6 @@ Pictore: cave and torch, looking for hints to discard or not while troubleshooti
 * Try and fail, but never fail to try 
 * To try or not to try, dont make that question, just try
 * The only failure is not trying
-* Fear does not avoid danger (neither does courage. But fear makes you weak, and courage makes you strong.) (Misha Defonseca)
 
 # Examples
 

@@ -15,9 +15,9 @@ There is a game called: "hot and cold" where the goal is to find an hidden objec
 
 At any moment, the player can query if he his getting closer or further from the goal.
 
-This investigation method exibits the entropically optimal way to find or store with respectively a binary tree or Cartesian coordinates.
+This investigation method exhibits the entropically optimal way to find or store with respectively a binary tree or Cartesian coordinates.
 
-When I play, I just switch off my brain and instinctively, if nothing goes right, go left!
+When I play, I just spare my brain and instinctively, if nothing goes right, go left!
 As I keep trying until success, I succeed before I stop.
 
 Astronomers call that walk "Fitting".
@@ -56,8 +56,11 @@ Trust is pillar of collaboration, fundamental element of operational efficiency.
 So try to show us your words your face! Don't worry, you won't loose it!
 
 You have the right to disobey, to do it your way, to think then exist!
+Fear does not avoid danger (neither does courage. But fear makes you weak, and courage makes you strong.)
 Take your place among the brave ones.
 ~~It's time you stand, fight... discover... heal, love, win.~~
+
+Where niceness is received as weakness, 
 
 Try to report / publish a failed investigation.
 
