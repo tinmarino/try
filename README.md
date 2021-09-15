@@ -16,7 +16,6 @@
 * Conclusion
   * Try methodologically: dichotomically, taking notes ...
 
-
 # Slides
 
 ###  First: Try+ associated verbs
@@ -62,7 +61,6 @@ Pictore: cave and torch, looking for hints to discard or not while troubleshooti
 * go after
 * tweak
 * Adjust
-
 
 
 # Mandar
