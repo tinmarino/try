@@ -12,8 +12,11 @@ Software never work. We, humble humans, never know how to fix it but, anyway, we
 ## 2/ Hot and Cold: I: Dichotomy: Tin 1min
 
 There is a game called: "hot and cold" where the goal is to find an hidden object.
+
 At any moment, the player can query if he his getting closer or further from the goal.
-This investigation method exibits the entropically optimal way to find or ~~geolocalise (store)~~ with respectively a binary tree or Cartesian coordinates.
+
+This investigation method exibits the entropically optimal way to find or store with respectively a binary tree or Cartesian coordinates.
+
 When I play, I just switch off my brain and instinctively, if nothing goes right, go left!
 As I keep trying until success, I succeed before I stop.
 
@@ -32,10 +35,10 @@ MJ Cover me!
 
 (Oh dear, you need backup!)
 
-
 Anyway, just do your best because that is the best you can do!
 
-(Example 1)
+### Example 1
+
 CM11 not locking band scenario Declared as a SW problem, band locking issue was a unknown problem 
 We went all over and above the code, input files, reviewing monitoring points
 trying to identify and/or discard other probable scenarios of known problemas between HW and SW.
@@ -50,11 +53,13 @@ the bigger picture while troubleshooting.
 
 We are small things, we trust what we see.
 Trust is pillar of collaboration, fundamental element of operational efficiency.
-So try to show us your face! Don't worry, you won't loose it!
+So try to show us your words your face! Don't worry, you won't loose it!
 
 You have the right to disobey, to do it your way, to think then exist!
 Take your place among the brave ones.
 ~~It's time you stand, fight... discover... heal, love, win.~~
+
+Try to report / publish a failed investigation.
 
 You may "know" that the resolution of Alma is limited by the diffraction of the synthetic aperture, the longer baseline.
 Do you believe in this quantum limit in the continuous realm?
@@ -66,8 +71,8 @@ Do you believe in this quantum limit in the continuous realm?
 
 Here in Alma, we work among astronomers within Galileo Galilei's legacy.
 
-His heritage survives not only in astrophysics, or even science.
-He taught us than natural science is not defined by complicated equations and simple drawings.
+His heritage survives not only in astrophysics. It transcends science.
+He taught us than natural science is not defined by some complicated equations and simple drawings.
 No more than social science is defined by a rich vocabulary and an empty pocket.
 Both their essences lie in our attitude.
 
