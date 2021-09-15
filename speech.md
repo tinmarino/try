@@ -1,12 +1,16 @@
 ## 1/ Intro: MJ 30s
 
 Good morning,
+
 We are 2 lost souls working in the Alma Department of Computing.
-Here, everyone uses computers for their daily duties but in computing we have ~~no professional life outside the digital world!~~
+Here, everyone uses computers for their daily duties.
+The difference in computing is that we never leave them.
 
 As for cooking, coding is a metaphor of labour, transformation, life!
 Welcome in this digital world!
-Software never work. We, humble humans, never know how to fix it but, anyway, we are going to show you how we try!
+
+There is only one rule: software never work.
+We, humble humans, never know how to fix it but, anyway, we are going to show you how we try!
 
 
 ## 2/ Hot and Cold: Dichotomy: Tin 1min
@@ -24,7 +28,12 @@ Astronomers call that walk "Fitting".
 Computerist call it: "artificial intelligence".
 Where going down the slope of weights of a "neuronal" network is referred as "Training".
 
-Musicians say: "Tune", Critics: "Tweak", Cooks: "Taste", and I "Try".
+Musicians say: "Tune",
+  * Critics: "Tweak",
+  * Cooks: "Taste",
+  * Providers: "Check"
+  * Clients: "Test"
+  * and I "Try".
 
 When business "Speculate", sport "Run for", and gigahertz machine "Fuzz";
 like them, I stand still, analyse, wait and have my shot!
