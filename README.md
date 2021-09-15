@@ -35,7 +35,6 @@ Pictore: cave and torch, looking for hints to discard or not while troubleshooti
 * He did not know it was imposible so he did it
 * Where niceness is received as weakness ...
 * There is no true heroes in victory
-* Where niceness is received as weakness ..
 
 # Quotes other
 
@@ -55,6 +54,7 @@ Pictore: cave and torch, looking for hints to discard or not while troubleshooti
 * Test fast as much major version as you can, one must succeed. Leave the script in background, you are already fuzzing Dude a true hacker!
 * Spam the full Alma Staff to share to them to valorate any intent so that it becomes a shared knowledge
 * The Rusian hacker push! Send Virus formated for many case of host RAM topography
+* Try to 
 
 # Synonyms
 
@@ -66,7 +66,7 @@ Pictore: cave and torch, looking for hints to discard or not while troubleshooti
 * Adjust
 
 
-# Mandar
+# Old: notes from conversation
 
 * Poeat essay
 * Not in vocabulary, empty pocket but in the attitude

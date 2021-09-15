@@ -1,4 +1,4 @@
-## 1/ Intro: We: MJ 30s
+## 1/ Intro: MJ 30s
 
 Good morning,
 We are 2 lost souls working in the Alma Department of Computing.
@@ -9,7 +9,7 @@ Welcome in this digital world!
 Software never work. We, humble humans, never know how to fix it but, anyway, we are going to show you how we try!
 
 
-## 2/ Hot and Cold: I: Dichotomy: Tin 1min
+## 2/ Hot and Cold: Dichotomy: Tin 1min
 
 There is a game called: "hot and cold" where the goal is to find an hidden object.
 
@@ -25,15 +25,12 @@ Computerist call it: "artificial intelligence".
 Where going down the slope of weights of a "neuronal" network is referred as "Training".
 
 Musicians say: "Tune", Critics: "Tweak", Cooks: "Taste", and I "Try".
-When business "Speculate", sport "Run for", and gigahertz machine "Fuzz",
-like them, I stand still, analyse, wait and have my shot! (Como shileno shoro shatumare => bang, oh shit ...)
 
-MJ Cover me!
+When business "Speculate", sport "Run for", and gigahertz machine "Fuzz";
+like them, I stand still, analyse, wait and have my shot!
 
 
-## 3/ Humble Example: I->You: MJ 1min
-
-(Oh dear, you need backup!)
+## 3/ Humble Example: MJ 1min
 
 Anyway, just do your best because that is the best you can do!
 
@@ -49,28 +46,39 @@ maybe tomorrow we are lucky enough to watch a similar case or scenario that help
 the bigger picture while troubleshooting.
 
 
-## 4/ Enumeration: You->We: MJ 1min
+## 4/ Enumeration: MJ 1min
 
 We are small things, we trust what we see.
 Trust is pillar of collaboration, fundamental element of operational efficiency.
-So try to show us your words your face! Don't worry, you won't loose it!
+So try to show us yourself!
 
 You have the right to disobey, to do it your way, to think then exist!
 Fear does not avoid danger (neither does courage. But fear makes you weak, and courage makes you strong.)
-Take your place among the brave ones.
-~~It's time you stand, fight... discover... heal, love, win.~~
+(Take your place among the brave ones.)
+Join the team fight against the universe and its mysteries.
 
-Where niceness is received as weakness, 
+Try to publish a failed investigation.
 
-Try to report / publish a failed investigation.
+Try to promote failure, you cannot fail at that.
+
+Try to:
+* Train
+* Trust
+* Share
+* Code
+* Plug
+* Push
 
 You may "know" that the resolution of Alma is limited by the diffraction of the synthetic aperture, the longer baseline.
 Do you believe in this quantum limit in the continuous realm?
+Try to remember that what is not explicitly forbidden is allowed.
+
+Try to connect and, if you will, try not to try.
 
 (@MJ, I put more in README/Example)
 
 
-## 5/ Conclusion: We: Tin 30s
+## 5/ Conclusion: Tin 30s
 
 Here in Alma, we work among astronomers within Galileo Galilei's legacy.
 
@@ -80,6 +88,6 @@ No more than social science is defined by a rich vocabulary and an empty pocket.
 Both their essences lie in our attitude.
 
 Here in Alma, within Galileo Galilei's legacy we work among astronomers.
-Let's admire (, troll) and try to imitate them!
+Let's admire and imitate them if we can!
 
 Thank you for your attention.
