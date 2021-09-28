@@ -1,37 +1,29 @@
-# Notas
+# TODO
 
-* Me, You, Us: I'd like to start with "I" then "You" then "We" (tin)
-  * A classical tactic to federate auditory
-  * Myannam, tinanam, Vietnam !
+last slide
+TODO Cloud of words
+TODO 1 or 2 quotes written 
 
+# Notes
 
-# Plan
-
-* Who are we (30 sec)
-  * We all use computer but the computing team do nothing more
-* Introduction (1 min: Martin)
-  * Example from what try means
-* Example 1
-* Example 2
-* Conclusion
-  * Try methodologically: dichotomically, taking notes ...
+Try to:
+* Trust
+* Share
+* Code
+* Plug
+* Push
 
 # Slides
-
-###  First: Try+ associated verbs
-### Second: Hot and Cold,dichotomy
 
 ### * Third: MJ ?
 
 1/2 examples done.
 
-Pictore: cave and torch, looking for hints to discard or not while troubleshooting
+Picture: cave and torch, looking for hints to discard or not while troubleshooting
 
-### Last: Gallileo galliley and astro heroes
 
 # Quotes
 
-* Fear does not avoid danger (neither does courage. But fear makes you weak, and courage makes you strong.) (Misha Defonseca)
 * He did not know it was imposible so he did it
 * Where niceness is received as weakness ...
 * There is no true heroes in victory
@@ -63,7 +55,6 @@ Pictore: cave and torch, looking for hints to discard or not while troubleshooti
 * go after
 * tweak
 * Adjust
-
 
 # Old: notes from conversation
 

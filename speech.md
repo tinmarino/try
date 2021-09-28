@@ -3,26 +3,30 @@
 Good morning,
 
 We are 2 lost souls working in the Alma Department of Computing.
-Here, everyone uses computers for their daily duties.
+We know you all use computers for your daily duties.
 The difference in computing is that we never leave them.
 
 As for cooking, coding is a metaphor of labour, transformation, life!
 Welcome in this digital world!
 
-There is only one rule: software never work.
+There is only one rule: software never works.
 We, humble humans, never know how to fix it but, anyway, we are going to show you how we try!
 
 
 ## 2/ Hot and Cold: Dichotomy: Tin 1min
 
+
+### Description
+
 There is a game called: "hot and cold" where the goal is to find an hidden object.
 
-At any moment, the player can query if he his getting closer or further from the goal.
+At any moment, the player can query if he his getting closer, hotter or further, colder from that hidden target.
 
 This investigation method exhibits the entropically optimal way to find or store with respectively a binary tree or Cartesian coordinates.
 
 When I play, I just spare my brain and instinctively, if nothing goes right, go left!
-As I keep trying until success, I succeed before I stop.
+
+### Comparaison
 
 Astronomers call that walk "Fitting".
 Computerist call it: "artificial intelligence".
@@ -42,6 +46,7 @@ like them, I stand still, analyse, wait and have my shot!
 ## 3/ Humble Example: MJ 1min
 
 Anyway, just do your best because that is the best you can do!
+If you keep trying until success, you will succeed before you stop!
 
 ### Example 1
 
@@ -54,8 +59,11 @@ even when we go over and above, the lack of further points to discard or investi
 maybe tomorrow we are lucky enough to watch a similar case or scenario that help us connect the dots, to create
 the bigger picture while troubleshooting.
 
+### Example 2 ??
 
 ## 4/ Enumeration: MJ 1min
+
+### Descriptive
 
 We are small things, we trust what we see.
 Trust is pillar of collaboration, fundamental element of operational efficiency.
@@ -64,27 +72,27 @@ So try to show us yourself!
 You have the right to disobey, to do it your way, to think then exist!
 Fear does not avoid danger (neither does courage. But fear makes you weak, and courage makes you strong.)
 (Take your place among the brave ones.)
-Join the team fight against the universe and its mysteries.
+(Join the team fight against the universe and its mysteries.)
 
-Try to publish a failed investigation.
-
-Try to promote failure, you cannot fail at that.
-
-Try to:
-* Train
-* Trust
-* Share
-* Code
-* Plug
-* Push
-
-You may "know" that the resolution of Alma is limited by the diffraction of the synthetic aperture, the longer baseline.
+You may "know" that the resolution of Alma is limited by the longer baseline: the diffraction pattern of the synthetic aperture.
 Do you believe in this quantum limit in the continuous realm?
-Try to remember that what is not explicitly forbidden is allowed.
+Try to allow what is not explicitly forbidden.
+
+### Q/A
+
+MJ: Try to publish a fruitless investigation ...
+Tin: 
+
+Tin: Try to promote failure ...
+MJ: You cannot fail at that!
+
+Mj: Try to practice and make perfect ...
+Tin: Perfection is the only objective quality metric
+
+
+### Last word
 
 Try to connect and, if you will, try not to try.
-
-(@MJ, I put more in README/Example)
 
 
 ## 5/ Conclusion: Tin 30s
@@ -92,11 +100,11 @@ Try to connect and, if you will, try not to try.
 Here in Alma, we work among astronomers within Galileo Galilei's legacy.
 
 His heritage survives not only in astrophysics. It transcends science.
-He taught us than natural science is not defined by some complicated equations and simple drawings.
+He taught us than natural science is not defined by some big equations and small drawings.
 No more than social science is defined by a rich vocabulary and an empty pocket.
 Both their essences lie in our attitude.
 
 Here in Alma, within Galileo Galilei's legacy we work among astronomers.
-Let's admire and imitate them if we can!
+Let's admire and try to imitate them!
 
 Thank you for your attention.
