@@ -40,7 +40,7 @@ Musicians say: "Tune",
   * and I "Try".
 
 When business "Speculate", sport "Run for", and gigahertz machine "Fuzz";
-like them, I stand still, analyse, wait and have my shot!
+like them, I stand still, analyse, wait, and have my shot!
 
 Bang! MJ cover me!
 
@@ -50,8 +50,6 @@ Bang! MJ cover me!
 Anyway, just do your best because that is the best you can do!
 If you keep trying until success, you will succeed before you stop!
 
-## Example 1
-
 CM11 not locking band scenario Declared as a SW problem, band locking issue was an unknown problem.
 
 We went all over and above the code, files, monitoring points
@@ -60,8 +58,9 @@ At some moment, we were 6 eyes, 3 brains trying to catch where these was faillin
 
 We are yet ignorants in terms of electronic devices but we collect and gather information to create the big picture during this troubleshooting
 even when we go over and above, the lack of further points to discard or investigate... stopped our investigation
-maybe tomorrow we are lucky enough to watch a similar case or scenario that help us connect the dots, to create
-the bigger picture while troubleshooting.
+
+maybe tomorrow we are lucky enough to watch a similar case or scenario that help us connect the dots,
+to create the bigger picture while troubleshooting.
 
 # 4/ Enumeration: MJ 1min
 
@@ -71,7 +70,7 @@ We are small things, we trust what we see.
 Trust is pillar of collaboration, fundamental element of operational efficiency.
 So try to show yourself!
 
-You have the right to disobey, to do it your way, to think then exist!
+You have the right to disobey, to do it your way, to think and exist!
 Fear does not avoid danger (neither does courage. But fear makes you weak, and courage makes you strong.)
 (Take your place among the brave ones.)
 
