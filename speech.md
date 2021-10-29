@@ -1,4 +1,4 @@
-## 1/ Intro: MJ 30s
+# 1/ Intro: MJ 30s
 
 Good morning,
 
@@ -13,10 +13,10 @@ There is only one rule: software never works.
 We, humble humans, never know how to fix it but, anyway, we are going to show you how we try!
 
 
-## 2/ Hot and Cold: Dichotomy: Tin 1min
+# 2/ Hot and Cold: Dichotomy: Tin 1min
 
 
-### Description
+## Description
 
 There is a game called: "hot and cold" where the goal is to find a hidden object.
 
@@ -26,7 +26,7 @@ This investigation method exhibits the entropically optimal way to find or store
 
 When I play, I just spare my brain and instinctively, if nothing goes right, go left!
 
-### Comparaison
+## Comparaison
 
 Astronomers call that walk "Fitting".
 Computerist call it: "artificial intelligence".
@@ -45,12 +45,12 @@ like them, I stand still, analyse, wait and have my shot!
 Bang! MJ cover me!
 
 
-## 3/ Humble Example: MJ 1min
+# 3/ Humble Example: MJ 1min
 
 Anyway, just do your best because that is the best you can do!
 If you keep trying until success, you will succeed before you stop!
 
-### Example 1
+## Example 1
 
 CM11 not locking band scenario Declared as a SW problem, band locking issue was an unknown problem.
 
@@ -63,9 +63,9 @@ even when we go over and above, the lack of further points to discard or investi
 maybe tomorrow we are lucky enough to watch a similar case or scenario that help us connect the dots, to create
 the bigger picture while troubleshooting.
 
-## 4/ Enumeration: MJ 1min
+# 4/ Enumeration: MJ 1min
 
-### Descriptive
+## Descriptive
 
 We are small things, we trust what we see.
 Trust is pillar of collaboration, fundamental element of operational efficiency.
@@ -79,7 +79,7 @@ You may "know" that the resolution of Alma is limited by the longer baseline: th
 Do you believe in this quantum limit in the continuous realm?
 Try to allow what is not explicitly forbidden.
 
-### Q/A
+## Q/A
 
 MJ: Try to publish a fruitless investigation ...
 Ti: Let us learn from your mistakes
@@ -94,7 +94,7 @@ Ti: Perfection is the unique objective quality metric
 MJ: Try to connect and, if you will, try not to try.
 
 
-## 5/ Conclusion: Tin 30s
+# 5/ Conclusion: Tin 30s
 
 Here in Alma, we work among astronomers within Galileo Galilei's legacy.
 
