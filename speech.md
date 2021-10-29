@@ -18,7 +18,7 @@ We, humble humans, never know how to fix it but, anyway, we are going to show yo
 
 ### Description
 
-There is a game called: "hot and cold" where the goal is to find an hidden object.
+There is a game called: "hot and cold" where the goal is to find a hidden object.
 
 At any moment, the player can query if he his getting closer, hotter or further, colder from that hidden target.
 
@@ -42,6 +42,8 @@ Musicians say: "Tune",
 When business "Speculate", sport "Run for", and gigahertz machine "Fuzz";
 like them, I stand still, analyse, wait and have my shot!
 
+Bang! MJ cover me!
+
 
 ## 3/ Humble Example: MJ 1min
 
@@ -50,16 +52,16 @@ If you keep trying until success, you will succeed before you stop!
 
 ### Example 1
 
-CM11 not locking band scenario Declared as a SW problem, band locking issue was a unknown problem 
-We went all over and above the code, input files, reviewing monitoring points
+CM11 not locking band scenario Declared as a SW problem, band locking issue was an unknown problem.
+
+We went all over and above the code, files, monitoring points
 trying to identify and/or discard other probable scenarios of known problemas between HW and SW.
-At some moment, we were 6 eyes, 3 brains trying to catch where these was failling... we are yet ignorants in
-terms of electronic devices but we collect and gather information to create the big picture during this troubleshooting
+At some moment, we were 6 eyes, 3 brains trying to catch where these was failling...
+
+We are yet ignorants in terms of electronic devices but we collect and gather information to create the big picture during this troubleshooting
 even when we go over and above, the lack of further points to discard or investigate... stopped our investigation
 maybe tomorrow we are lucky enough to watch a similar case or scenario that help us connect the dots, to create
 the bigger picture while troubleshooting.
-
-### Example 2 ??
 
 ## 4/ Enumeration: MJ 1min
 
@@ -67,12 +69,11 @@ the bigger picture while troubleshooting.
 
 We are small things, we trust what we see.
 Trust is pillar of collaboration, fundamental element of operational efficiency.
-So try to show us yourself!
+So try to show yourself!
 
 You have the right to disobey, to do it your way, to think then exist!
 Fear does not avoid danger (neither does courage. But fear makes you weak, and courage makes you strong.)
 (Take your place among the brave ones.)
-(Join the team fight against the universe and its mysteries.)
 
 You may "know" that the resolution of Alma is limited by the longer baseline: the diffraction pattern of the synthetic aperture.
 Do you believe in this quantum limit in the continuous realm?
@@ -81,18 +82,16 @@ Try to allow what is not explicitly forbidden.
 ### Q/A
 
 MJ: Try to publish a fruitless investigation ...
-Tin: 
+Ti: Let us learn from your mistakes
 
-Tin: Try to promote failure ...
+Ti: Try to promote failure ...
 MJ: You cannot fail at that!
 
-Mj: Try to practice and make perfect ...
-Tin: Perfection is the only objective quality metric
+MJ: Try to practice and make perfect ...
+Ti: Perfection is the unique objective quality metric
 
 
-### Last word
-
-Try to connect and, if you will, try not to try.
+MJ: Try to connect and, if you will, try not to try.
 
 
 ## 5/ Conclusion: Tin 30s

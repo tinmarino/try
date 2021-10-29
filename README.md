@@ -4,6 +4,11 @@ last slide
 TODO Cloud of words
 TODO 1 or 2 quotes written 
 
+# Tip
+
+* Use "termdown" to see the time
+
+
 # Notes
 
 Try to:
