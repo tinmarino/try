@@ -2,7 +2,7 @@
 
 Good morning,
 
-We are 2 lost souls working in the Alma Department of Computing.
+We work in the Alma Department of Computing.
 Everyone uses computers for his daily duties.
 The difference in Computing is that we never leave them.
 
@@ -10,7 +10,8 @@ As for cooking, coding is a metaphor of labour, transformation, life!
 Welcome to this digital world!
 
 There is only one rule: software never works.
-We, humble humans, never know how to fix it but, anyway, we are going to show you how we try!
+We, humble humans, never know how to fix it but.
+Anyway, we are going to show you how we try!
 
 
 # 2/ Hot and Cold: Dichotomy: Tin 1min
