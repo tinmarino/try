@@ -9,6 +9,13 @@ TODO 1 or 2 quotes written
 * Use "termdown" to see the time
 
 
+# Feeedback 1 (Rocio)
+
+* Bajar el perfil (no tanto como: somos winners: imitennos)
+* Cuidara tono, no tanta intonacion
+* trabajar accento
+* Que no se veia tan leido
+
 # Notes
 
 Try to:
