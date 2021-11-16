@@ -10,8 +10,8 @@ As for cooking, coding is a metaphor of labour, transformation, life!
 Welcome to this digital world!
 
 There is only one rule: software never works.
-We, humble humans, never know how to fix it but.
-Anyway, we are going to show you how we try!
+We, humble humans, never know how to fix it but anyway,
+we are going to show you how we try!
 
 
 # 2/ Hot and Cold: Dichotomy: Tin 1min
@@ -23,7 +23,7 @@ There is a game called: "hot and cold" where the goal is to find a hidden object
 
 At any moment, the player can query if he his getting closer, hotter or further, colder from that hidden target.
 
-This investigation method exhibits the entropically optimal way to find or store with respectively a binary tree or Cartesian coordinates.
+This investigation method exhibits the entropically optimal way to store or find with respectively cartesian coordinates or binary trees.
 
 When I play, I just spare my brain and instinctively, if nothing goes right, go left!
 
@@ -80,17 +80,17 @@ Try to allow what is not explicitly forbidden.
 
 ## Q/A
 
-MJ: Try to publish a fruitless investigation ...
-Ti: Let us learn from your mistakes
+MJ: Let's try to publish a fruitless investigation ...
+Ti: So that we can learn from our mistakes
 
-Ti: Try to promote failure ...
-MJ: You cannot fail at that!
+Ti: We can try to promote failure ...
+MJ: We cannot fail at that!
 
-MJ: Try to practice and make perfect ...
+MJ: Let's try to practice and make perfect ...
 Ti: Perfection is the unique objective quality metric
 
 
-MJ: Try to connect and, if you will, try not to try.
+MJ: We can try to connect and, if we will, we can try not to try.
 
 
 # 5/ Conclusion: Tin 30s
