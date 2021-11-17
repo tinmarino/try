@@ -3,10 +3,12 @@
 Good morning,
 
 We work in the Alma Department of Computing.
-Everyone uses computers for his daily duties.
-The difference in Computing is that we never leave them.
+We all live among computers
+As users on daily life
+The difference in the Computing group is that we never leave them.
 
 As for cooking, coding is a metaphor of labour, transformation, life!
+code is our ingredient that enable us to repair the system
 Welcome to this digital world!
 
 There is only one rule: software never works.
@@ -27,7 +29,7 @@ This investigation method exhibits the entropically optimal way to store or find
 
 When I play, I just spare my brain and instinctively, if nothing goes right, go left!
 
-## Comparaison
+## Comparision
 
 Astronomers call that walk "Fitting".
 Computerist call it: "artificial intelligence".
@@ -41,7 +43,7 @@ Musicians say: "Tune",
   * and I "Try".
 
 When business "Speculate", sport "Run for", and gigahertz machine "Fuzz";
-like them, I stand still, analyse, wait, and have my shot!
+like them, I analyse, stand still and have my shot!
 
 Bang! MJ cover me!
 
@@ -51,17 +53,22 @@ Bang! MJ cover me!
 Anyway, just do your best because that is the best you can do!
 If you keep trying until success, you will succeed before you stop!
 
-CM11 not locking band scenario Declared as a SW problem, band locking issue was an unknown problem.
+Once upon a time, in nothern Atacama a remote region of my native country 
+an antenna called CM11 was not locking.
+this was declare as a SW problem, our problem.
+at this time band locking was an unknown problem.
 
-We went all over and above the code, files, monitoring points
-trying to identify and/or discard other probable scenarios of known problemas between HW and SW.
-At some moment, we were 6 eyes, 3 brains trying to catch where these was failling...
+We went all over and above the code, files, monitoring points, tiny details
+trying to identify and discard probables scenarios of already known issues between HW and SW.
+uh lala! those 2, such silly boys!
 
-We are yet ignorants in terms of electronic devices but we collect and gather information to create the big picture during this troubleshooting
-even when we go over and above, the lack of further points to discard or investigate... stopped our investigation
+At some moment, we were 6 eyes, 3 brains trying to catch where all this was failling...
+(tic tac) the clock marked bet time and in the lack of further hypotesis
+we had to stop our investigation
 
-maybe tomorrow we are lucky enough to watch a similar case or scenario that help us connect the dots,
-to create the bigger picture while troubleshooting.
+but that day I made a promise to this antenna, my robotic friend CM11, to never let it down.
+and I still keep trying to fullfill this promise
+
 
 # 4/ Enumeration: MJ 1min
 
