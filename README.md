@@ -70,7 +70,6 @@ Picture: cave and torch, looking for hints to discard or not while troubleshooti
 
 # Old todo task for MJ
 
-1/ (5min) Choose one quote from above for code.sh (and send it to me so I push it)
 2/ (10min) Critic 4/Enumeration/Descriptive: I made 3 points, 1/trust, 2/fear 3/Curisotiry. I LOVE 2 and 3 but 1 => try to show us your face is not really good, just tell me what you feel
 3/ (30 min) 4/Q/A There is currently 3 question and answer. I would like to have 5, what do you think ? Can you find 2 more ? I will then correct/ reformulate them. Remember that the first writing is always kind of bad. "The travel of a thousand miles begins with one step" LaoTsi
 4/ (2 hours) Improve the 3/ Humble example, for example:
