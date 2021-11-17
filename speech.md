@@ -3,8 +3,7 @@
 Good morning,
 
 We work in the Alma Department of Computing.
-We all live among computers
-As users on daily life
+We all live among computers as users on daily life.
 The difference in the Computing group is that we never leave them.
 
 As for cooking, coding is a metaphor of labour, transformation, life!
