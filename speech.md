@@ -8,7 +8,7 @@ As users on daily life
 The difference in the Computing group is that we never leave them.
 
 As for cooking, coding is a metaphor of labour, transformation, life!
-code is our ingredient that enable us to repair the system
+code is the ingredient that enable us to repair the system
 Welcome to this digital world!
 
 There is only one rule: software never works.
@@ -56,18 +56,18 @@ If you keep trying until success, you will succeed before you stop!
 Once upon a time, in nothern Atacama a remote region of my native country 
 an antenna called CM11 was not locking.
 this was declare as a SW problem, our problem.
-at this time band locking was an unknown problem.
+at that time band locking was an unknown problem.
 
 We went all over and above the code, files, monitoring points, tiny details
 trying to identify and discard probables scenarios of already known issues between HW and SW.
-uh lala! those 2, such silly boys!
+Oh la la! Those 2 ... such silly boys!
 
-At some moment, we were 6 eyes, 3 brains trying to catch where all this was failling...
+At some moment, we were 3 brains, 6 eyes trying to catch where all this was failling...
 (tic tac) the clock marked bet time and in the lack of further hypotesis
-we had to stop our investigation
+we had to stop our investigation.
 
-but that day I made a promise to this antenna, my robotic friend CM11, to never let it down.
-and I still keep trying to fullfill this promise
+But that day I made a promise to this antenna, my robotic friend CM11, to never let it down.
+And I still keep trying to fullfill this promise
 
 
 # 4/ Enumeration: MJ 1min
