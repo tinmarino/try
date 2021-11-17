@@ -69,10 +69,6 @@ to create the bigger picture while troubleshooting.
 
 We are small things, we trust what we see.
 Trust is pillar of collaboration, fundamental element of operational efficiency.
-So try to show yourself!
-
-You have the right to disobey, to do it your way, to think and exist!
-Fear does not avoid danger!
 
 You may "know" that the resolution of Alma is limited by the longer baseline: the diffraction pattern of the synthetic aperture.
 Do you believe in this quantum limit in the continuous realm?
