@@ -68,6 +68,16 @@ Picture: cave and torch, looking for hints to discard or not while troubleshooti
 * tweak
 * Adjust
 
+# Enumeration
+
+* Try to trust
+* Try to code defensively
+* Try to double check
+* Try to understand
+* Try to get free, informal time (together or not)
+* Try to be brave
+  * Fear does not avoid danger
+
 # Old todo task for MJ
 
 2/ (10min) Critic 4/Enumeration/Descriptive: I made 3 points, 1/trust, 2/fear 3/Curisotiry. I LOVE 2 and 3 but 1 => try to show us your face is not really good, just tell me what you feel
