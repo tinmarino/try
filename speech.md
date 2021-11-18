@@ -14,6 +14,7 @@ There is only one rule: software never works.
 We, humble humans, never know how to fix it but anyway,
 we are going to show you how we try!
 
+---
 
 # 2/ Hot and Cold: Dichotomy: Tin 1min
 
@@ -51,6 +52,8 @@ Bang! MJ cover me!
 
 Anyway, just do your best because that is the best you can do!
 If you keep trying until success, you will succeed before you stop!
+
+---
 
 Once upon a time, in nothern Atacama a remote region of my native country 
 an antenna called CM11 was not locking.
@@ -94,8 +97,9 @@ MJ: Just to ensure we exist
 MJ: We can try to build trust
 Ti: Trust is pillar of collaboration
 
-MJ: We can try to connect and, if we want, we can try not to try.
+---
 
+MJ: We can try to connect and, if we want, we can try not to try.
 
 # 5/ Conclusion: Tin 30s
 
