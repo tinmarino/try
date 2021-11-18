@@ -79,17 +79,22 @@ Try to allow what is not explicitly forbidden.
 
 ## Q/A
 
-MJ: Let's try to publish a fruitless investigation ...
+MJ: We can try to publish a fruitless investigation ...
 Ti: So that we can learn from our mistakes
 
-Ti: We can try to promote failure ...
+Ti: Let's try to promote failure ...
 MJ: We cannot fail at that!
 
 MJ: Let's try to practice and make perfect ...
 Ti: Perfection is the unique objective quality metric
 
+Ti: We can try to think, think diferently
+MJ: Just to ensure we exist
 
-MJ: We can try to connect and, if we will, we can try not to try.
+MJ: We can try to build trust
+Ti: Trust is pillar of collaboration
+
+MJ: We can try to connect and, if we want, we can try not to try.
 
 
 # 5/ Conclusion: Tin 30s

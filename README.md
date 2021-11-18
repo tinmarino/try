@@ -76,15 +76,35 @@ Picture: cave and torch, looking for hints to discard or not while troubleshooti
 
 # Enumeration
 
-* Try to trust
+
+* Try to be Curious
+  * You will then learn by yourself why it is important
+
+
+* Respect and diversity
+* Care
+
+* Try to stimulate Initiative
+  * Fear does not avoid danger
+
+
+curisodad, Diversidad
+
+
 * Try to code defensively
 * Try to double check
-* Try to understand
-* Try to get free, informal time (together or not)
+
+# Not used
+* Initiativa <= intentar ya es iniciativa
+* Try to take a rest get free, informal time (together or not)
 * Try to be brave
-  * Fear does not avoid danger
+* Colaboration
+* Excelence
+  * Try to do it your ways
+  * Try to let me do it mine
+  * Try to stimulat initiatives
+
 We are small things, we trust what we see.
-Trust is pillar of collaboration, fundamental element of operational efficiency.
 
 
 # Old todo task for MJ
