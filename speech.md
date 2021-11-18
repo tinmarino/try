@@ -7,7 +7,7 @@ We all live among computers as users on daily life.
 The difference in the Computing group is that we never leave them.
 
 As for cooking, coding is a metaphor of labour, transformation, life!
-code is the ingredient that enable us to repair the system
+Code is the ingredient that enable us to repair the system
 Welcome to this digital world!
 
 There is only one rule: software never works.
@@ -54,8 +54,8 @@ If you keep trying until success, you will succeed before you stop!
 
 Once upon a time, in nothern Atacama a remote region of my native country 
 an antenna called CM11 was not locking.
-this was declare as a SW problem, our problem.
-at that time band locking was an unknown problem.
+This was declare as a SW problem, our problem.
+At that time band locking was an unknown problem.
 
 We went all over and above the code, files, monitoring points, tiny details
 trying to identify and discard probables scenarios of already known issues between HW and SW.
@@ -73,7 +73,7 @@ And I still keep trying to fullfill this promise
 
 ## Descriptive
 
-You may "know" that the resolution of Alma is limited by the longer baseline: the diffraction pattern of the synthetic aperture.
+You may "know" that the resolution of Alma is limited by the longest baseline: the diffraction pattern of the synthetic aperture.
 Do you believe in this quantum limit in the continuous realm?
 Try to allow what is not explicitly forbidden.
 
