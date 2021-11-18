@@ -51,6 +51,12 @@ Picture: cave and torch, looking for hints to discard or not while troubleshooti
 * To try or not to try, dont make that question, just try
 * The only failure is not trying
 
+# Ideas
+
+* Disfrasarse
+* Musica de fondo, at once upon a time
+
+
 # Examples
 
 * Put print at every line
@@ -77,12 +83,18 @@ Picture: cave and torch, looking for hints to discard or not while troubleshooti
 * Try to get free, informal time (together or not)
 * Try to be brave
   * Fear does not avoid danger
+We are small things, we trust what we see.
+Trust is pillar of collaboration, fundamental element of operational efficiency.
+
 
 # Old todo task for MJ
 
-2/ (10min) Critic 4/Enumeration/Descriptive: I made 3 points, 1/trust, 2/fear 3/Curisotiry. I LOVE 2 and 3 but 1 => try to show us your face is not really good, just tell me what you feel
-3/ (30 min) 4/Q/A There is currently 3 question and answer. I would like to have 5, what do you think ? Can you find 2 more ? I will then correct/ reformulate them. Remember that the first writing is always kind of bad. "The travel of a thousand miles begins with one step" LaoTsi
-4/ (2 hours) Improve the 3/ Humble example, for example:
+[ ] (10 min) Slide full screen antes viernes 12h
+[ ] (30 min) 4/Q/A There is currently 3 question and answer. I would like to have 5, what do you think ? Can you find 2 more ? I will then correct/ reformulate them. Remember that the first writing is always kind of bad. "The travel of a thousand miles begins with one step" LaoTsi
+
+
+* DONE (10min) Critic 4/Enumeration/Descriptive: I made 3 points, 1/trust, 2/fear 3/Curisotiry. I LOVE 2 and 3 but 1 => try to show us your face is not really good, just tell me what you feel
+* DONE (2 hours) Improve the 3/ Humble example, for example:
     4.1 there is no conclusion,
     4.2 repetition of "over and above"
     4.3 1 paragraph but I made some changes => do not forget new lines and ponctuation

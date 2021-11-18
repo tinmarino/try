@@ -31,7 +31,7 @@ When I play, I just spare my brain and instinctively, if nothing goes right, go 
 ## Comparision
 
 Astronomers call that walk "Fitting".
-Computerist call it: "artificial intelligence".
+Computerists call it: "artificial intelligence".
 Where going down the slope of weights of a "neuronal" network is referred as "Training".
 
 Musicians say: "Tune",
@@ -59,7 +59,7 @@ at that time band locking was an unknown problem.
 
 We went all over and above the code, files, monitoring points, tiny details
 trying to identify and discard probables scenarios of already known issues between HW and SW.
-Oh la la! Those 2 ... such silly boys!
+Ahhh ... HW and SW ... Those 2 ... such silly boys!
 
 At some moment, we were 3 brains, 6 eyes trying to catch where all this was failling...
 (tic tac) the clock marked bet time and in the lack of further hypotesis
@@ -72,9 +72,6 @@ And I still keep trying to fullfill this promise
 # 4/ Enumeration: MJ 1min
 
 ## Descriptive
-
-We are small things, we trust what we see.
-Trust is pillar of collaboration, fundamental element of operational efficiency.
 
 You may "know" that the resolution of Alma is limited by the longer baseline: the diffraction pattern of the synthetic aperture.
 Do you believe in this quantum limit in the continuous realm?
