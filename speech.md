@@ -71,6 +71,7 @@ we had to stop our investigation.
 But that day I made a promise to this antenna, my robotic friend CM11, to never let it down.
 And I still keep trying to fullfill this promise
 
+---
 
 # 4/ Enumeration: MJ 1min
 
@@ -91,11 +92,8 @@ MJ: We cannot fail at that!
 MJ: Let's try to practice and make perfect ...
 Ti: Perfection is the unique objective quality metric
 
-Ti: We can try to think, think differently
-MJ: Just to ensure we exist
-
-MJ: We can try to build trust
-Ti: Trust is pillar of collaboration
+Ti: We can try to build trust
+MJ: Trust is pillar of collaboration
 
 ---
 
