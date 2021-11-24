@@ -91,7 +91,7 @@ MJ: We cannot fail at that!
 MJ: Let's try to practice and make perfect ...
 Ti: Perfection is the unique objective quality metric
 
-Ti: We can try to think, think diferently
+Ti: We can try to think, think differently
 MJ: Just to ensure we exist
 
 MJ: We can try to build trust
@@ -106,7 +106,7 @@ MJ: We can try to connect and, if we want, we can try not to try.
 Here in Alma, we work among astronomers within Galileo Galilei's legacy.
 
 His heritage survives not only in astrophysics. It transcends science.
-He taught us than natural science is not defined by some big equations and small drawings.
+He taught us that natural science is not defined by some big equations and small drawings.
 No more than social science is defined by a rich vocabulary and an empty pocket.
 Both their essences lie in our attitude.
 
