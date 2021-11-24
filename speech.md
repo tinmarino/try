@@ -22,8 +22,8 @@ we are going to show you how we try!
 ## Description
 
 There is a game called: "hot and cold", do you know it?
-
 The goal is to find a hidden object.
+
 At any moment, the player can query if he his getting closer, hotter or further, colder from that hidden target.
 
 This investigation method exhibits the entropically optimal way to store or find with respectively cartesian coordinates or binary trees.
