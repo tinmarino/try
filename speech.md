@@ -58,7 +58,7 @@ If you keep trying until success, you will succeed before you stop!
 
 Once upon a time, in nothern Atacama a remote region of my native country 
 an antenna called CM11 was not locking.
-This was declare as a SW problem, our problem.
+This was declared as a SW problem, our problem.
 At that time band locking was an unknown problem.
 
 We went all over and above the code, files, monitoring points, tiny details
@@ -89,7 +89,7 @@ Try to allow what is not explicitly forbidden.
 MJ: We can try to publish a fruitless investigation ...
 Ti: So that we can learn from our mistakes
 
-Ti: Let's try to promote failure ...
+Ti: Actualy let's try to promote failure ...
 MJ: We cannot fail at that!
 
 MJ: Let's try to practice and make perfect ...
