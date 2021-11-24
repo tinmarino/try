@@ -21,8 +21,9 @@ we are going to show you how we try!
 
 ## Description
 
-There is a game called: "hot and cold" where the goal is to find a hidden object.
+There is a game called: "hot and cold", do you know it?
 
+The goal is to find a hidden object.
 At any moment, the player can query if he his getting closer, hotter or further, colder from that hidden target.
 
 This investigation method exhibits the entropically optimal way to store or find with respectively cartesian coordinates or binary trees.
@@ -65,7 +66,7 @@ trying to identify and discard probables scenarios of already known issues betwe
 Ahhh ... HW and SW ... Those 2 ... such silly boys!
 
 At some moment, we were 3 brains, 6 eyes trying to catch where all this was failling...
-(tic tac) the clock marked bet time and in the lack of further hypotesis
+(tic tac) the clock marked bed time and in the lack of further hypotesis
 we had to stop our investigation.
 
 But that day I made a promise to this antenna, my robotic friend CM11, to never let it down.
@@ -77,9 +78,11 @@ And I still keep trying to fullfill this promise
 
 ## Descriptive
 
+(
 You may "know" that the resolution of Alma is limited by the longest baseline: the diffraction pattern of the synthetic aperture.
 Do you believe in this quantum limit in the continuous realm?
 Try to allow what is not explicitly forbidden.
+)
 
 ## Q/A
 
